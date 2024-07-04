@@ -170,7 +170,7 @@ span {
 }
 
 .img1 {
-    background-image: url("/assets/box2_image.jpg");
+    background-image: url("../assets/box2_image.jpg");
 }
 
 .img2 {
